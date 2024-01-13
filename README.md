@@ -14,7 +14,7 @@
 **Task 5: Predict Credit Card Fraud using Logistic Regression**
 **For the final project, I utilized logistic regression to predict credit card fraud. With a dataset containing various features related to credit card transactions, including transaction amount, time, and other anonymized variables, the logistic regression model accurately identified fraudulent transactions.**
 
-##  **Repository Structure.**
+##  **Repository Structure**
 This GitHub repository is organized as follows:
 
 - **Task1_DecisionTree: Contains the code and relevant files for the Titanic survival prediction task.**
